@@ -32,7 +32,5 @@ This file is a simple entry point that initializes the SidebarContainerView. You
 3. Customize Menu Items: Update the menuItems() function in SidebarMenuDestinations.swift to reflect the actual destinations and titles for your app.
 4. Customize the Sidebar Title: Pass a custom title view when calling SidebarContainerView in ContentView.swift if needed.
 
-
-### License
 ## License
 Distributed under Open Source License
